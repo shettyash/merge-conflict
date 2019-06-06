@@ -25,5 +25,10 @@ Feature1code()
 
 }
 
+Feature2()
+{
 
+//Feature2 code added 
+
+}
 }
