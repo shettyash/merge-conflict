@@ -17,5 +17,10 @@ Security Patches()
 
 }
 
+Feature2()
+{
 
+//Feature2 code added 
+
+}
 }
