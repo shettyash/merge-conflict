@@ -10,6 +10,12 @@ Initial Function2()
  //Sample Code
 }
 
+Security Patches()
+{
+
+//Security patches added	
+
+}
 
 
 }
